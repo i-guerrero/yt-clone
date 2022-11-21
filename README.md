@@ -1,3 +1,6 @@
+# Youtube Clone
+Trello Board: [https://trello.com/b/ZFytmzn2/youtube-clone-isaac-james-carlos](https://trello.com/b/ZFytmzn2/youtube-clone-isaac-james-carlos)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
