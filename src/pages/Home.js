@@ -1,16 +1,16 @@
+import React from "react";
 
-
-
-
-
-
-
-
-
-
-
-
-
+export default function Home() {
+  function handleSearch() {}
+  return (
+    <div>
+      <form>
+        <input></input>
+        <button onClick={() => handleSearch}>Search</button>
+      </form>
+    </div>
+  );
+}
 
 // return (
 // 	<dix classname="search">
